@@ -1,6 +1,7 @@
 const Express = require('express');
 const cookieParser = require('cookie-parser');
 const compression = require('compression');
+const HTML        = require('./HTML');
 
 let app = new Express();
 

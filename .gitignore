@@ -1,6 +1,9 @@
 node_modules/
+dist/
+dst/
 .gitignore/
 .elasticbeanstalk/
+
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
