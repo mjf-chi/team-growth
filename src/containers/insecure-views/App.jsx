@@ -8,13 +8,13 @@ const { StyleRoot, Style } = Radium;
 class App extends React.Component {
   render() {
     return (
-      <StyleRoot>
+      <StyleRoot radiumConfig={{ userAgent:'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36' }}>
         <Style rules={{
           body: {
             margin: '0',
           },
           html: {
-            backgroundColor: '#dad9d7',
+            backgroundColor: '#fafafa',
             width: '100%',
             height: '100%',
           }

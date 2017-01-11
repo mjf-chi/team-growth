@@ -1,0 +1,48 @@
+module.exports = [
+  {
+    title: 'Long title for an article, it can get pretty long before it starts to look weird in the space provided',
+    approved: true,
+    toComplete: '35m',
+    rating: 4.2,
+    uploaded: 1484079068,
+    pointsAwarded: 1502,
+    department: 'Engineering',
+    link: 'https://www.joinhoney.com/',
+  },{
+    title: 'Long title for an article, it can get pretty long before it starts to look weird in the space provided',
+    approved: false,
+    toComplete: '20m',
+    rating: 3.1,
+    uploaded: 1484079068,
+    pointsAwarded: 130,
+    department: 'Engineering',
+    link: 'https://www.joinhoney.com/',
+  },{
+    title: 'Long title for an article, it can get pretty long before it starts to look weird in the space provided',
+    approved: false,
+    toComplete: '45m',
+    rating: 4.2,
+    uploaded: 1484079068,
+    pointsAwarded: 2002,
+    department: 'Engineering',
+    link: 'https://www.joinhoney.com/',
+  },{
+    title: 'Long title for an article, it can get pretty long before it starts to look weird in the space provided',
+    approved: false,
+    toComplete: '20m',
+    rating: 4.2,
+    uploaded: 1484079068,
+    pointsAwarded: 1502,
+    department: 'Engineering',
+    link: 'https://www.joinhoney.com/',
+  },{
+    title: 'Long title for an article, it can get pretty long before it starts to look weird in the space provided',
+    approved: true,
+    toComplete: '1h',
+    rating: 4.2,
+    uploaded: 1484079068,
+    pointsAwarded: 4203,
+    department: 'Engineering',
+    link: 'https://www.joinhoney.com/',
+  }
+]
